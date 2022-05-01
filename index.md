@@ -27,7 +27,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://drive.google.com/file/d/11Jr3EvnwzRZSkE98ccTatyMqk1HIyKNL/view?usp=sharing).
+Linke to Resume(https://drive.google.com/file/d/11Jr3EvnwzRZSkE98ccTatyMqk1HIyKNL/view?usp=sharing).
 
 ### Jekyll Themes
 
